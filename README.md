@@ -1,3 +1,5 @@
+![Header](http://www.davidwhitney.co.uk/img/hero-david.jpg)
+
 ### Hi there 👋
 
 Hi, I'm David - you might be here because I
