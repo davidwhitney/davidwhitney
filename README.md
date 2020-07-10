@@ -1,4 +1,4 @@
-![Header](http://www.davidwhitney.co.uk/img/hero-david.jpg)
+![Header](https://raw.githubusercontent.com/davidwhitney/davidwhitney/master/banner.png)
 
 ### Hi there 👋
 
