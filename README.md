@@ -23,9 +23,9 @@ Available for strategic discussions, pair programming, code review, problem solv
 
 If you're looking for my Kids books, GET CODING! or GET CODING 2! you can buy them at all good bookstores.
 
-[GET CODING! on Amazon UK](https://www.amazon.co.uk/gp/product/B07MWDVNXM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07MWDVNXM&linkCode=as2&tag=davidwhitney-21&linkId=3914f98660782dea0ffc5a659cabccbb)
-[GET CODING2! on Amazon UK](https://www.amazon.co.uk/gp/product/1406382493/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1406382493&linkCode=as2&tag=davidwhitney-21&linkId=459afab7b335ec15c613a74e9db27fe2)
-[Regional stores and international translations](http://www.davidwhitney.co.uk/Books)
+- [GET CODING! on Amazon UK](https://www.amazon.co.uk/gp/product/B07MWDVNXM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07MWDVNXM&linkCode=as2&tag=davidwhitney-21&linkId=3914f98660782dea0ffc5a659cabccbb)
+- [GET CODING2! on Amazon UK](https://www.amazon.co.uk/gp/product/1406382493/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1406382493&linkCode=as2&tag=davidwhitney-21&linkId=459afab7b335ec15c613a74e9db27fe2)
+- [Regional stores and international translations](http://www.davidwhitney.co.uk/Books)
 
 # Status
 
